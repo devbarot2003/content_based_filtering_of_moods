@@ -8,4 +8,5 @@ intrinsic features of items and users' emotional preferences. By analyzing the e
 method tailors recommendations to match users' emotional states and preferences. It involves techniques such as sentiment analysis, natural<br>
 language processing, and emotional profiling to understand the emotional resonance of content. Content-based filtering of emotions aims to<br>
 enhance user satisfaction and engagement by delivering emotionally relevant recommendations tailored to individual preferences.
-
+<br><br>
+Note: Give 3-4 minutes of time in the starting to the app to get started, and after giving the user input, wait for another 3-4 mins. to see the output.
