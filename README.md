@@ -1,5 +1,5 @@
-This is a Data Science NLP project.
-
+<b>This is a Data Science NLP project.</b>
+<br>
 Introduction:
 Content-based filtering of emotions is a personalized recommendation approach that leverages the emotional content of items to make <br>
 recommendations to users. Unlike collaborative filtering, which relies on user-item interactions, content-based filtering focuses on the<br>
