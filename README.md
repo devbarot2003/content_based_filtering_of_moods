@@ -9,12 +9,12 @@ Content-based filtering of emotions is a personalized recommendation approach th
 <br>
 
 <h3><b>Types of Emotions taken in the project:</b></h3>
-1. Anger
-2. Sadness
-3. Love
-4. Happy
-5. Joy
-6. 
+1. Anger<br>
+2. Sadness<br>
+3. Love<br>
+4. Fear<br>
+5. Joy<br>
+6. Surprise<br>
 <br>
 <h2><b>About the project front end:</b></h2>
 
